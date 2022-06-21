@@ -10,6 +10,6 @@
 
 5. [0x04-python-more_data_structures](https://github.com/Lilywd/alx-higher_level_programming/tree/master/0x04-python-more-data_structues/)
 
-6. [0x05-python-exceptions](https://github.com/Lilywd/alx-higher-level/programming/tree/master/0x05-python-exceptions/)
+6. [0x05-python-exceptions](https://github.com/Lilywd/alx-higher_level_programming/tree/master/0x05-python-exceptions/)
 
 7. [0x06-python-classes](https://github.com/Lilywd/alx-higher-level/programming/tree/master/0x06-python-classes/)
