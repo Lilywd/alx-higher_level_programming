@@ -12,4 +12,4 @@
 
 6. [0x05-python-exceptions](https://github.com/Lilywd/alx-higher_level_programming/tree/master/0x05-python-exceptions/)
 
-7. [0x06-python-classes](https://github.com/Lilywd/alx-higher-level/programming/tree/master/0x06-python-classes/)
+7. [0x06-python-classes](https://github.com/Lilywd/alx-higher_level_programming/tree/master/0x06-python-classes/)
